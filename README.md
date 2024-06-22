@@ -97,4 +97,4 @@ This repository contains code for the investigation and experimentation of the B
 
 By using and contributing to this repository, you agree to these disclaimers and guidelines. If you do not agree, please refrain from using or contributing to this repository.
 
-For any questions join on my Discord server (https://discord.gg/u5szjf9S)
+For any questions join on my Discord server (https://discord.gg/h7SaJbB5)
