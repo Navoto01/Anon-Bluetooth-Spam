@@ -65,7 +65,7 @@ Devices like the Flipper Zero, however, have the capability to modify this byte,
 
 ## Installation
 
-Just download the apk file from the release and than install it in your android phone
+Just download the apk file from the release and then install it in your android phone
 
 
 ## Screenshots
